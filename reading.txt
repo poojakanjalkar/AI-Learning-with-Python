@@ -1,0 +1,5 @@
+Teacher: Good morning, have you completed the assignment I gave last week?
+Student: Good morning, ma'am. Yes, but I struggled with understanding recursion.
+Teacher: Recursion can be tricky. Did you focus on the base case?
+Student: I tried, but I didn’t fully get how it stops infinite calls.
+Teacher: The base case acts as a stopping point. 
