@@ -1,0 +1,5 @@
+wordcount: 12 Teacher: Good morning, have you completed the assignment I gave last week?
+wordcount: 11 Student: Good morning, ma'am. Yes, but I struggled with understanding recursion.
+wordcount: 12 Teacher: Recursion can be tricky. Did you focus on the base case?
+wordcount: 13 Student: I tried, but I didn’t fully get how it stops infinite calls.
+wordcount: 10 Teacher: The base case acts as a stopping point. 
