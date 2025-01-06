@@ -3,7 +3,7 @@ class Human:
     self.name=n
     self.occupation=o
     
-  def player(self):
+  def player(self)
       if(self.name=="jack"):
         print("jack is tennis player")
         
