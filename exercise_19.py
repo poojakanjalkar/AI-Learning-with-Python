@@ -7,9 +7,9 @@ def analyze_text():
         user_input = input("Enter your text: ")
         
         # Exit condition
-        if user_input.lower() == 'exit':
-            print("Goodbye! Have a great day!")
-            break
+        # if user_input.lower() == 'exit':
+        #     print("Goodbye! Have a great day!")
+        #     break
         
         # Processing the input
         word_count = len(user_input.split())
